@@ -1,3 +1,10 @@
+# Running the project
+
+- clone the project on your machine
+- go inside "JWT-login-angular" folder
+- run "npm install"
+- run "ng serve --open"
+
 # AngEmg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
